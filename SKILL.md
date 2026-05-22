@@ -183,10 +183,6 @@ stock-low-position-selector/
 
 MIT License
 
-## 作者
-
-imeiming
-
 ## 联系方式
 
 - GitHub: https://github.com/iminddesign
